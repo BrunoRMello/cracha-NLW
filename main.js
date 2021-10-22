@@ -3,7 +3,7 @@ const links = {
   youtube: "brunomello",
   facebook: "BrunoMello",
   instagram: "@brvolk",
-  twitter: "BrunoVolk",
+  twitter: "volk_bruno",
 };
 
 function changeSocialMediaLinks() {
